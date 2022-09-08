@@ -154,5 +154,7 @@ hr {
  {
     .mount{
         position: static;
+        padding-top:1.5rem;
+        
     }
  }
