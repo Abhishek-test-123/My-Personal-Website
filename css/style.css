@@ -150,3 +150,10 @@ hr {
     top: 70px;
     font-size: 1em;
  }
+@media(max-width:900px)
+ {
+    .mount{
+        position: static;
+        padding-top: 10rem;
+    }
+ }
